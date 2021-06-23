@@ -85,8 +85,7 @@ defined('EXIT__AUTO_MIN')      OR define('EXIT__AUTO_MIN', 9); // lowest automat
 defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest automatically-assigned error code
 
 define("DEFAULT_IMAGE_URL",'uploads/');
-define("FCM_TOKEN",'AAAAPinAHjI:APA91bEyLLRmOCzdXTo0Q9AhlwnUoOdoPDPGyhrn17bgZmOacIm5qrzsN3fcaVUyMHnhqt-kNbu9KLuRXdxTDGHgOV1hhdnfhBhLc9vcknZ9ZkvKiOHcx6j6Afw-cM3BG3GSj2bqleOw	
-');
+define("FCM_TOKEN",'AAAAPinAHjI:APA91bEyLLRmOCzdXTo0Q9AhlwnUoOdoPDPGyhrn17bgZmOacIm5qrzsN3fcaVUyMHnhqt-kNbu9KLuRXdxTDGHgOV1hhdnfhBhLc9vcknZ9ZkvKiOHcx6j6Afw-cM3BG3GSj2bqleOw');
 
 define('TBL_ADMIN', 'tbl_admin');
 define('TBL_USER', 'tbl_users');

@@ -9,7 +9,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | URL to your CodeIgniter root. Typically this will be your base URL,
 | WITH a trailing slash:
 |
-|    http://thegeekradar.com/
+|    https://dashboardadmintr.herokuapp.com/
 |
 | WARNING: You MUST set this value!
 |
@@ -24,7 +24,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 |
  */
 
-$config['base_url'] = ' https://thegeekradar.com/';
+$config['base_url'] = 'https://dashboardadmintr.herokuapp.com/';
 
 /*
 |--------------------------------------------------------------------------
